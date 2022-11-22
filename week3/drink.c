@@ -4,8 +4,8 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
 
-int main() {    
-    int e, f, c, tot = 0;
+int main() {
+    int e, f, c, tot = 0; 
     scanf("%d %d %d", &e, &f, &c);
 
     while(e+f >= c) {
